@@ -1,5 +1,15 @@
 # Nanodegree Engenheiro de Machine Learning
 # Modelo de avaliação e validação
+
+
+##  1ª Prova Python e Analise básica de dados 
+## Provas do Curso de Fundamento de IA & Machine Learning da Udacity 2019 (Janeiro a Abril)
+- Descompacte database.zip - chicago.csv é a base de dados dessa analise
+- Instale | **pip install python-matplotlib**
+- Execute **python chicago_bikeshare_pt.py**
+
+
+## 2ª Prova (Final) Modelo de aprendizagem de previsão de valores de imóveis
 ## Projeto: Prevendo o preço de imóveis de Boston
 
 ### Instalação
